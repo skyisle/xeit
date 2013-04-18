@@ -18,4 +18,4 @@ FAQ
 
 ### 설치는 어찌하죠? ###
 
-궁금하면 [여기](http://tomyun.github.io/xeit/xeit.html)로!
+궁금하면 [여기](http://tomyun.github.io/xeit/xeit.html)로!!
